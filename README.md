@@ -1,1 +1,1 @@
-# whats_optimizer
+# WhatsOpt
